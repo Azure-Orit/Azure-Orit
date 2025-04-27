@@ -2,7 +2,6 @@
 
 ![Age](https://img.shields.io/badge/Age-27-blue)&nbsp;
 ![Pronouns](https://img.shields.io/badge/They-Them-028a0f)&nbsp;
-<a href="https://www.linkedin.com/in/azure-gon%C3%A7alves-639a2b265/"><img src="https://img.shields.io/badge/-Azure%20Gon%C3%A7alves-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:strulegb@hotmail.com"><img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 ### My skills
