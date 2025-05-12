@@ -2,7 +2,10 @@
 
 ![Age](https://img.shields.io/badge/Age-27-blue)&nbsp;
 ![Pronouns](https://img.shields.io/badge/They-Them-028a0f)&nbsp;
-<a href="mailto:strulegb@hotmail.com"><img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:strulegb@hotmail.com"><img src="https://img.shields.io/badge/-Send%20me%20an%20email-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/strule.bsky.social)&nbsp;
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/le-strule/)&nbsp;
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://social.linux.pizza/@azure)&nbsp;
 
 ### My skills
 
